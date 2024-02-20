@@ -1,5 +1,4 @@
 # the following code will ask users to input any number between 1 and 100
-
 age = int(input("please input numbers between 1 and 100:"))
 
 
